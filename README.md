@@ -1,11 +1,16 @@
-# dbus-shelly-1pm-pvinverter
-Integrate Shelly 1PM into Victron Energies Venus OS
+# venusos-3EM-pvinverter
+Integrate Shelly 3EM into Victron Energies Venus OS
+This Project is heavily inspired by the dbus-shelly-1pm-pvinverter project.
+I just forked the project and adapted it to use my 3EM device.
+
+**Please see https://github.com/vikt0rm/dbus-shelly-1pm-pvinverter for more information about this project.
+Thank you to vikt0rm and all other projects that inspired him !** 
+
+**Starting from this line, you will find the original README unmodified**
 
 ## Purpose
 With the scripts in this repo it should be easy possible to install, uninstall, restart a service that connects the Shelly 1PM to the VenusOS and GX devices from Victron.
 Idea is inspired on @fabian-lauer project linked below.
-
-
 
 ## Inspiration
 This project is my first on GitHub and with the Victron Venus OS, so I took some ideas and approaches from the following projects - many thanks for sharing the knowledge:
