@@ -1,6 +1,6 @@
 # venusos-3EM-pvinverter
 Integrate Shelly 3EM into Victron Energies Venus OS\
-This Project is heavily inspired by the dbus-shelly-1pm-pvinverter project.
+This Project is heavily inspired by the dbus-shelly-1pm-pvinverter project.\
 I just forked the project and adapted it to use my 3EM device.
 
 **Please see https://github.com/vikt0rm/dbus-shelly-1pm-pvinverter for more information about this project.\
